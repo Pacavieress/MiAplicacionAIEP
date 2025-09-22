@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# 🚫 Ignorar build del módulo app
+app/build/
