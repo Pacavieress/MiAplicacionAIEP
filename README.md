@@ -1,14 +1,14 @@
-# \# 📱 MiAplicacionAIEP
+# \#MiAplicacionAIEP
 
 # 
 
-# Proyecto Android desarrollado en \*\*Kotlin\*\* como parte de las actividades de AIEP.  
+# Proyecto Android desarrollado en \*\*Kotlin\*\* como parte de las actividades de AIEP.
 
 # Incluye código de ejemplo con interfaz básica y funciones iniciales.
 
 # 
 
-# \## 🚀 Tecnologías
+# \##Tecnologías
 
 # \- Android Studio
 
@@ -20,13 +20,11 @@
 
 # 
 
-# \## ⚙️ Cómo ejecutar
+# \##Cómo ejecutar
 
 # 1\. Clonar el repositorio:
 
-# &nbsp;  ```bash
+#    ```bash
 
-# &nbsp;  git clone https://github.com/pacavieress/MiAplicacionAIEP.git
-
-
+#    git clone https://github.com/pacavieress/MiAplicacionAIEP.git
 
